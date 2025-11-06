@@ -1,0 +1,20 @@
+# Core Framework
+streamlit
+
+# Google AI
+google-generativeai
+
+# LangChain for Memory Management
+langchain
+langchain-community
+
+# Speech Recognition (Voice Input)
+faster-whisper
+soundfile
+scipy
+
+# Image Processing
+Pillow
+
+# General Utilities
+requests
