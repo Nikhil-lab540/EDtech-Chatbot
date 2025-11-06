@@ -7,3 +7,12 @@ Chatbot with
 - Gives tabular formats and everything 
 
 consider as version1
+
+
+
+
+version 2
+has tutor and analysis shit
+takes exam data and homework data
+filters acc to query
+uses gemini 2.5 flash
